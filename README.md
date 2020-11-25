@@ -1,6 +1,6 @@
 # CIDR
 CIDR: Classroom Interaction Detection and Recognition System. 
-Process first-person video recordings in a preschool classroom to detect interactions with teachers and peers, as well as decoding child-directed speech.
+Process first-person video recordings in a preschool classroom to detect interactions with teachers and peers, as well as decoding child-directed speech. As detailed in the paper "Automatized analysis of children’s exposure to child-directed speech in reschool settings: Validation and application." https://doi.org/10.1371/journal.pone.0242511
 
 PROTOCOL:
 
